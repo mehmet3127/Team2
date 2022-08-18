@@ -26,12 +26,13 @@ toplamininKaresiEksiBes(a,b,c);
 
 
 
+
         }
 
     public static void toplayanMethod(int a,int b,int c){
 
         c=a+b;
-        System.out.println(c);
+        System.out.println("Verilen iki sayinin toplami : "+ c);
     }
     
     
