@@ -17,12 +17,12 @@ public class TeamCalisma {
         // a ile b yi ortalamasini alan method      --kevser hanim     ----41-45
         // a ile b yi ortalamasinin karesini alan method --yeliz hanim     ----46-50
 
-toplayanMethod(int a,int b,int c);
-toplamininKaresiniAlma(int a, int b, int c);
-ortalamasiniALma(int a,int b,int c);
-cikar(int a,int b, int c);
-carpim(int a,int b,int c);
-toplamininKaresi(int a,int b,int c);
+toplayanMethod(a,b,c);
+toplamininKaresiniAlma(a,b,c);
+ortalamasiniALma(a,b,c);
+cikar(a,b,c);
+carpim(a,b,c);
+toplamininKaresi(a,b,c);
 
 
         }
