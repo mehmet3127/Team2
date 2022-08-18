@@ -47,9 +47,44 @@ public class TeamCalisma {
         c = (a + b) * (a + b);
         System.out.println(c);
 
+
+     }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+public static void ortalamasiniALma(int a,int b,int c){
+        c=((a+b)/2);
+    System.out.println(c);
+}
+
+        public static void cikar(int a,int b, int c){
+            c=a-b;
+            System.out.println("Verilen Iki Sayinin Farki : "+c);
+            }
+        
+        public static void carpim(int a,int b,int c){
+
+        c=a*b;
+        System.out.println(c);
     }
-
-
 
 
 }
