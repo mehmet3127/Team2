@@ -61,6 +61,8 @@ public static void ortalamasiniALma(int a,int b,int c){
         System.out.println("Toplaminin karesi -5 : "+c);
         
         }
-
+//bir grup calismasinda team lead in guncel olarak gonderdigi projeyi master branch imizde iken git pull adress olarak locakl imize cekiyoruz
+//branch imize gecis yapiyoruz master ile merge ediyoruz .Localimizde yaptigimiz celisma/degisikliklerimizi master uzerinde degil kendi branch imiz uzerinde yapiyoruz
+//buradaki amac guncelledigimiz projenin yapisini bozmamak calismalarimiz bittikten sonra git add . git commit -m"" yapiyoruz ve branch imizden push adress yapiyoruz
 
 }
