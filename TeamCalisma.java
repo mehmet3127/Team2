@@ -43,7 +43,7 @@ toplamininKaresiEksiBes(a,b,c);
 
 public static void ortalamasiniALma(int a,int b,int c){
         c=((a+b)/2);
-    System.out.println(c);
+    System.out.println("iki sayinin ortalaması :" +c);
 }
 
         public static void cikar(int a,int b, int c){
