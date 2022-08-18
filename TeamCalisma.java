@@ -23,6 +23,8 @@ ortalamasiniALma(a,b,c);
 cikar(a,b,c);
 carpim(a,b,c);
 toplamininKaresi(a,b,c);
+toplamininKaresiEksiBes(a,b,c);
+
 
 
         }
@@ -55,9 +57,9 @@ public static void ortalamasiniALma(int a,int b,int c){
         c=a*b;
         System.out.println(c);
     }
-        public static void toplamininKaresi(int a,int b,int c){
+        public static void toplamininKaresiEksiBes(int a,int b,int c){
         c=(a+b)*(a+b)-5;
-        System.out.println(c);
+        System.out.println("Toplaminin karesi -5 : "+c);
         
         }
 
