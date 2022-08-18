@@ -16,7 +16,44 @@ public class TeamCalisma {
         // a ile b yi cikartan method               --hanife hanim   ----36-40
         // a ile b yi ortalamasini alan method      --kevser hanim     ----41-45
         // a ile b yi ortalamasinin karesini alan method --yeliz hanim     ----46-50
-        // a ile b yi ortalamasinin karesinden 5 cikaran method alan method --yeliz hanim     ----46-50
+        // a ile b yi ortalamasinin karesinden 5 cikaran method alan method --mevlut     ----51-55
 
     }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        public static void toplamininKaresi(int a,int b,int c){
+        c=(a+b)*(a+b)-5;
+        System.out.println(c);
+
+        }
+
+
+
 }
