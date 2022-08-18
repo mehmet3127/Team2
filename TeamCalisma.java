@@ -33,8 +33,15 @@ public class TeamCalisma {
 
 
 
+
         public static void cikar(int a,int b, int c){
             c=a-b;
             System.out.println("Verilen Iki Sayinin Farki : "+c);
+            }
+        
+        public static void carpim(int a,int b,int c){
+
+        c=a*b;
+        System.out.println(c);
     }
 }
