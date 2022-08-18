@@ -18,5 +18,14 @@ public class TeamCalisma {
         // a ile b yi ortalamasinin karesini alan method --yeliz hanim     ----46-50
         // a ile b yi ortalamasinin karesinden 5 cikaran method alan method --yeliz hanim     ----46-50
 
+
+
+        }
+
+    public static void toplayanMethod(int a,int b,int c){
+
+        c=a+b;
+        System.out.println(c);
     }
+
 }
