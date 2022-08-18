@@ -36,7 +36,7 @@ toplamininKaresi(a,b,c);
     
     public static void toplamininKaresiniAlma(int a, int b, int c) {
         c = (a + b) * (a + b);
-        System.out.println("Iki sayinin kareleri tolami = "+c);
+        System.out.println("Iki sayinin toplaminin karesi = "+c);
 
      }
 
