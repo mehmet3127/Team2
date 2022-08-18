@@ -5,9 +5,9 @@ public class TeamCalisma {
         System.out.println("Team 2 yeliz");
 
 
-        int a=10;
-        int b=10;
-        int c=0;
+        int a = 10;
+        int b = 10;
+        int c = 0;
         //GOREV PAYLASIMI
 
         // a ile b yi toplayan method             --esra hanim     ----20 - 25
@@ -23,7 +23,23 @@ public class TeamCalisma {
 
 
 
-    public static void carpim(int a,int b,int c){
+
+
+
+
+
+
+
+
+
+
+
+        public static void cikar(int a,int b, int c){
+            c=a-b;
+            System.out.println("Verilen Iki Sayinin Farki : "+c);
+            }
+        
+        public static void carpim(int a,int b,int c){
 
         c=a*b;
         System.out.println(c);
