@@ -22,7 +22,9 @@ toplamininKaresiniAlma(a,b,c);
 ortalamasiniALma(a,b,c);
 cikar(a,b,c);
 carpim(a,b,c);
-toplamininKaresi(a,b,c);
+toplamininKaresiEksiBes(a,b,c);
+
+
 
 
         }
@@ -36,13 +38,13 @@ toplamininKaresi(a,b,c);
     
     public static void toplamininKaresiniAlma(int a, int b, int c) {
         c = (a + b) * (a + b);
-        System.out.println(c);
+        System.out.println("Iki sayinin toplaminin karesi = "+c);
 
      }
 
 public static void ortalamasiniALma(int a,int b,int c){
         c=((a+b)/2);
-    System.out.println(c);
+    System.out.println("iki sayinin ortalaması :" +c);
 }
 
         public static void cikar(int a,int b, int c){
@@ -55,11 +57,13 @@ public static void ortalamasiniALma(int a,int b,int c){
         c=a*b;
         System.out.println(c);
     }
-        public static void toplamininKaresi(int a,int b,int c){
+        public static void toplamininKaresiEksiBes(int a,int b,int c){
         c=(a+b)*(a+b)-5;
-        System.out.println(c);
+        System.out.println("Toplaminin karesi -5 : "+c);
         
         }
-
+//bir grup calismasinda team lead in guncel olarak gonderdigi projeyi master branch imizde iken git pull adress olarak locakl imize cekiyoruz
+//branch imize gecis yapiyoruz master ile merge ediyoruz .Localimizde yaptigimiz celisma/degisikliklerimizi master uzerinde degil kendi branch imiz uzerinde yapiyoruz
+//buradaki amac guncelledigimiz projenin yapisini bozmamak calismalarimiz bittikten sonra git add . git commit -m"" yapiyoruz ve branch imizden push adress yapiyoruz
 
 }
