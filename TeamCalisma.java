@@ -24,8 +24,8 @@ public class TeamCalisma {
 
     public static void toplayanMethod(int a,int b,int c){
 
-        c=a+b;
-        System.out.println(c);
+        a=b+a;
+        System.out.println(a);
     }
 
 }
