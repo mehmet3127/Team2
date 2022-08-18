@@ -22,7 +22,6 @@ toplamininKaresiniAlma(a,b,c);
 ortalamasiniALma(a,b,c);
 cikar(a,b,c);
 carpim(a,b,c);
-toplamininKaresi(a,b,c);
 toplamininKaresiEksiBes(a,b,c);
 
 
